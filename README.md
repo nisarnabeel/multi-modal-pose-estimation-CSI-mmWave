@@ -10,4 +10,7 @@
   pages={261--267},
   year={2023}
 }
-Lately dataset has been added to github repository as well along with poses from Kinect
+
+
+**Lately dataset has been added to github repository as well along with poses from Kinect
+**
