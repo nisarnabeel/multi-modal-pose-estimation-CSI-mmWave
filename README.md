@@ -14,3 +14,5 @@
 
 **Lately dataset has been added to github repository as well along with poses from Kinect
 **
+
+Extended dataset generated using GANs is available here "https://zenodo.org/records/10702154"
