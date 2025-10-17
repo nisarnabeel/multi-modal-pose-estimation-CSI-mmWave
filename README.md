@@ -1,7 +1,7 @@
 ## Multi-Modal Pose Estimation with CSI and mmWave
 
 This dataset refers to the paper [**Multi-modal pose estimation in XR applications leveraging ISAC**](https://doi.org/10.1145/3615452.3617944).  
-The dataset includes synchronized **CSI, mmWave, and RGB-D pose data** collected for **extended reality (XR)** applications.
+The dataset includes synchronized **CSI, mmWave, and skeleton data** collected for **extended reality (XR)** applications.
 
 If you find this work useful, please cite the original article:
 
